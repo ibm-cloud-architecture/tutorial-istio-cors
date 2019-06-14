@@ -1,0 +1,1 @@
+Example using CORS in istio
