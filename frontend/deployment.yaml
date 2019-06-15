@@ -19,6 +19,5 @@ spec:
       containers:
         - name: bff-container
           image: csantanapr/bff-cors
-          imagePullPolicy: Never
           ports:
             - containerPort: 8080
